@@ -1,0 +1,10 @@
+#header{
+    height: 150px;
+    padding-top: 35px;
+    background-color: #5c4510;
+    color: #ffffff;
+}
+
+.btn-dark {
+    margin-left: 10px;
+}
